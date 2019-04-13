@@ -1,0 +1,6 @@
+numpy==1.16.2
+Pillow==6.0.0
+pywin32==224
+tensorflow==1.13.1
+keras==2.2.4
+PySide2==5.12.2
